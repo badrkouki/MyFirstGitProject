@@ -23,6 +23,7 @@ namespace WindowsFormsApp1
             if (str.Equals("badr") || str.Equals("ala"))
             {
                 MessageBox.Show("this is a git test");
+                //Ha ha ha 
             }
         }
     }
