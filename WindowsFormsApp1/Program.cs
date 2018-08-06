@@ -11,6 +11,8 @@ namespace WindowsFormsApp1
         /// <summary>
         /// The main entry point for the application.
         /// badr
+        /// 
+        /// this is a connection
         /// </summary>
         [STAThread]
         static void Main()
